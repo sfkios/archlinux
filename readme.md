@@ -39,6 +39,7 @@ sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme t
 
 [Nordic](https://www.pling.com/s/XFCE/p/1267246)
 
+[WP Nord](https://github.com/FrenzyExists/wallpapers/blob/main/Nord/nord-aquarium.png)
 
 
 
