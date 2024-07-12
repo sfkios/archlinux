@@ -35,5 +35,10 @@ yay -S google-chrome visual-studio-code-bin
 sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop
 ```
 
+# THEME
+
+[Nordic](https://www.pling.com/s/XFCE/p/1267246)
+
+
 
 
