@@ -32,7 +32,7 @@ yay -S google-chrome visual-studio-code-bin
 # PACMAN
 
 ```
-sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop
+sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop	pidgin
 ```
 
 # THEME
