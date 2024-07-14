@@ -35,7 +35,8 @@ yay -S google-chrome visual-studio-code-bin
 sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop pidgin php npm nodejs
 ```
 
-# THEME
+# THEME 
+NORD
 
 [Nordic](https://www.pling.com/s/XFCE/p/1267246)
 
@@ -43,5 +44,15 @@ sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme t
 
 [XFCE Terminal](https://github.com/nordtheme/xfce-terminal/blob/develop/src/nord.theme)
 
+
+# XFCE CLOCK
+
+```
+<b>%d / %m / %Y</b>
+```
+
+```
+<b>%I : %M : %S</b>
+```
 
 
