@@ -1,7 +1,7 @@
-# Mirror SG
+# Mirror ID SG
 
 ```
-sudo reflector --country Singapore --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --country Indonesia,Singapore --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 
