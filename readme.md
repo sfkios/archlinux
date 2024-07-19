@@ -42,7 +42,7 @@ NORD
 
 [Nordic](https://www.pling.com/s/XFCE/p/1267246)
 
-[WP Nord](https://github.com/FrenzyExists/wallpapers/blob/main/Nord/nord-aquarium.png)
+[WP](https://unsplash.com/photos/silhouette-of-trees-covered-by-fog-KT3WlrL_bsg)
 
 [XFCE Terminal](https://github.com/nordtheme/xfce-terminal/blob/develop/src/nord.theme)
 
