@@ -1,7 +1,31 @@
-# Mirror ID SG
+# Setup
+
+## Mirror
 
 ```
 sudo reflector --country Indonesia,Singapore --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+```
+
+## Install
+
+```
+pacman -Sy
+```
+
+```
+pacman -Syy
+```
+
+```
+pacman --needed -Sy archlinux-keyring
+```
+
+```
+pacman -Sy archlinux-keyring
+```
+
+```
+pacman -Sy archinstall
 ```
 
 
