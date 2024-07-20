@@ -17,10 +17,6 @@ pacman -Syy
 ```
 
 ```
-pacman --needed -Sy archlinux-keyring
-```
-
-```
 pacman -Sy archlinux-keyring
 ```
 
