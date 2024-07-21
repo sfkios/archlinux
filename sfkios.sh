@@ -5,4 +5,4 @@ sudo pacman -R $(pacman -Qtdq)
 yay -Sc
 yay -Yc
 sudo pacman -Syu
-yay
+yay -Syu
