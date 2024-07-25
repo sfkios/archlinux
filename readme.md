@@ -5,9 +5,6 @@ sudo reflector --country Indonesia --age 12 --protocol https --sort rate --save 
 ```
 ## Install
 ```
-pacman -Sy
-```
-```
 pacman -Syy
 ```
 ```
