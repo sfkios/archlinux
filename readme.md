@@ -8,10 +8,10 @@ sudo reflector --country Indonesia --age 12 --protocol https --sort rate --save 
 pacman -Syy
 ```
 ```
-pacman -Sy archlinux-keyring
+pacman -S archlinux-keyring
 ```
 ```
-pacman -Sy archinstall
+pacman -S archinstall
 ```
 # PACMAN
 ```
