@@ -18,11 +18,7 @@ sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme n
 ```
 <b>%I : %M : %S</b>
 ```
-# XFCE R
-```
-sudo pacman -R mousepad xfce4-notes-plugin xfce4-sensors-plugin xfce4-taskmanager vim xfburn ristretto parole xfce4-dict
-```
-# VSCODE
+# CODE
 ```
 {
   "editor.fontSize": 18,
