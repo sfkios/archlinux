@@ -5,7 +5,7 @@ sudo reflector --country Indonesia --age 12 --protocol https --sort rate --save 
 ```
 # PACMAN
 ```
-sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop pidgin php npm nodejs unzip
+sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop pidgin php npm unzip
 ```
 # THEME 
 [Nordic](https://www.pling.com/s/XFCE/p/1267246)
