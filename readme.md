@@ -21,7 +21,7 @@ sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme n
 # CODE
 ```
 {
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "workbench.startupEditor": "none",
   "editor.tabSize": 2,
   "editor.renderWhitespace": "all",
