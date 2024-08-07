@@ -3,16 +3,6 @@
 ```
 sudo reflector --country Indonesia --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
-## Install
-```
-pacman -Syy
-```
-```
-pacman -S archlinux-keyring
-```
-```
-pacman -S archinstall
-```
 # PACMAN
 ```
 sudo pacman -S filezilla telegram-desktop capitaine-cursors papirus-icon-theme ttf-lato ttf-hack fastfetch htop pidgin php npm nodejs unzip
