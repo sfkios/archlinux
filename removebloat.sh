@@ -29,3 +29,4 @@ sudo pacman -R --noconfirm xfce4-wavelan-plugin
 sudo pacman -R --noconfirm xfce4-weather-plugin
 sudo pacman -R --noconfirm xfce4-whiskermenu-plugin
 sudo pacman -R --noconfirm xfce4-whiskermenu-plugin
+sudo pacman -R --noconfirm xfce4-taskmanager
