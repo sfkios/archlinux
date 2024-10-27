@@ -24,7 +24,7 @@ sudo pacman -S firefox-developer-edition epiphany filezilla telegram-desktop cap
     "editor.minimap.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.linkedEditing": true,
-     "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.colorTheme": "One Dark Pro Darker",
     "editor.fontFamily": "JetBrains Mono"
 }
 ```
