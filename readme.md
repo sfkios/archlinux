@@ -1,5 +1,5 @@
 ```
-sudo pacman -S firefox-developer-edition epiphany filezilla telegram-desktop capitaine-cursors papirus-icon-theme inter-font ttf-jetbrains-mono pidgin php npm zip unzip code
+sudo pacman -S firefox-developer-edition epiphany filezilla telegram-desktop capitaine-cursors papirus-icon-theme inter-font ttf-jetbrains-mono pidgin php npm zip unzip code flameshot
 ``` 
 
 ```
@@ -36,3 +36,15 @@ sudo pacman -S firefox-developer-edition epiphany filezilla telegram-desktop cap
 [XFCE Terminal Nord](https://github.com/nordtheme/xfce-terminal/blob/develop/src/nord.theme)
 
 [Flameshot Nord](https://github.com/amayer5125/nord-flameshot)
+
+[https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)
+
+[https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+[https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+[https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+```
+code --install-extension *.vsix
+```
